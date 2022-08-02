@@ -7,6 +7,7 @@
 - 📫 How to reach me: alexanderolza@gmail.com
 - 😄 Pronouns: He/Him
 
+[![AlexOlza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexOlza&show_icons=true&theme=radical&count_private=true&hide=stars)](https://github.com//github-readme-stats)
 <!--
 - :page_with_curl: Check out my resume
 - ⚡ Fun fact: ...

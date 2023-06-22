@@ -1,9 +1,8 @@
 ### Hi there, I'm Alex 👋
 
 - :mortar_board: I'm a Physics graduate, with a Master's in Mathematical Modelling, Statistics and Computing.
-- 🔭 I’m currently working on predictive models for unplanned hospitalization and other health outcomes in my home region, the Basque Country. [Check them out here!](https://github.com/AlexOlza/estratificacion)
-- 🌱 I’m currently interested in *all things AI for Health*. Technical interests include bayesian inference, complex data structures, trustworthy AI and causality.
- 
+- 🔭 I’m currently a PhD Student in Representation Learning, with applications to Neuroscience
+
 - 📫 How to reach me: alexanderolza@gmail.com
 - 😄 Pronouns: He/Him
 - :scroll: [Check out my resume](https://github.com/AlexOlza/AlexOlza/blob/main/CValexolza.pdf)
